@@ -12,7 +12,7 @@ Remember, after clone make sure you have checkout to `develop` branch. And also,
    ```
    git clone https://github.com/ngalambackend/ngamback.git
    ```
-2. Install depedency with `npm install` or `yarn install`
+2. Install depedency with `npm install`
 3. Run the automate test, following this command :
     ```
     npm run cy:open
